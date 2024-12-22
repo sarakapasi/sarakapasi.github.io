@@ -1,4 +1,4 @@
-s{% include base_path %}
+{% include base_path %}
 
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
@@ -6,7 +6,7 @@ s{% include base_path %}
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
-        <img src="headshot from surf.jpg">
+        <img src=
         {% if s.image contains "://" %}
           "{{ s.image }}"
         {% else %}
