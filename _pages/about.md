@@ -11,13 +11,15 @@ Welcome to my website! My CV is linked [here](https://sarakapasi.github.io/files
 
 What do/did I do?
 ------
-I am currently a junior at Georgia Tech majoring in Biomedical Engineering and minoring in Chemistry and Biochemistry. At Tech, I work in the [Enveomics Lab](https://enve-omics.gatech.edu/) throughout the school year, and for the past few summers I have worked in the [Appel Lab](https://www.supramolecularbiomaterials.com/) and the Traverso Lab as part of the [Stanford SURF program](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer) and the [MIT Summer Research Program](https://oge.mit.edu/msrp/profiles/sara-kapasi/), respectively. 
+I am currently a junior at Georgia Tech majoring in Biomedical Engineering and minoring in Chemistry and Biochemistry, interested in developing resilient delivery systems for microbes, drugs, and biologics in human health and harsh environments. At Tech, I work in the [Enveomics Lab](https://enve-omics.gatech.edu/) throughout the school year on mostly computational work, and for the past few summers I have worked in the [Appel Lab](https://www.supramolecularbiomaterials.com/) and the Traverso Lab as part of the [Stanford SURF program](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer) and the [MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/profiles/sara-kapasi/), respectively. In the summer of 2025, I will be a Product Engineering intern at Varda Space Industries as part of the Brooke Owens Fellowship. 
+
 I'm also a part of the M.A.R.S Vertically Integrated Projects (VIP) team starting January 2025, and was formerly part of the Smart and Connected Bioelectronics VIP working on cardiovascular monitoring devices under [Dr. Woon-Hong Yeo](https://www.yeolabgatech.com/) from August 2022 to December 2023. Outside of classes I serve as one of the Biomedical Engineering officers for [Asclepios V](https://asclepios.ch/), a student-run analog mission based at EPFL, and am Production Manager for [DramaTech](https://dramatech.org/), Georgia Tech's student-run theatre.
 
 What do I care about?
 ------
+My overarching goal in my work is to develop better ways of delivering better therapeutics. As someone surrounded by those with chronic diseases, I hope to be able to make a difference in my communities and use novel, innovative techniques to ensure better quality of life. 
 
-**Markdown generator**
+I am a strong supporter of interdisciplinary projects and am also a big space enthusiast. I believe that skills in engineering are translational throughout subfields and am happiest working on meaningful projects incorporating multiple disciplines, such as the Asclepios V mission. Since the start of my time in school, I've also been committed towards increasing diversity in STEM through my involvement in MSRP and Stanford SURF, as well as Georgia Tech's [Undergradute Research Ambassadors](https://urop.gatech.edu/content/undergraduate-research-ambassador-current), SWE chapter, and Women in Engineering program.
 
 About this site
 ------
