@@ -21,7 +21,7 @@ repository               : "sarakapasi/sarakapasi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/headshot-c.jpg"
+  avatar           : "./files/headshot-c.jpg"
   name             : "Sara Kapasi"
   pronouns         : "she/they"  
   bio              : "Short biography for the left-hand sidebar"
