@@ -21,7 +21,7 @@ repository               : "sarakapasi/sarakapasi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot-c.jpg"
+  avatar           : "files/headshot-c.jpg"
   name             : "Sara Kapasi"
   pronouns         : "she/they"  
   bio              : "Short biography for the left-hand sidebar"
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3389-0823"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
