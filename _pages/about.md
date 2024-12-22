@@ -1,17 +1,18 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, welcome to my website! My CV is linked [here](https://sarakapasi.github.io/cv_updated_oct_2024.pdf) if that is what you're here for, and other ways to reach me are linked in the menu either to the left, or above, depending on your screen resolution. Click the links at the top of the page to check out some of my other experience and work!
+Welcome to my website! My CV is linked [here](https://sarakapasi.github.io/cv_updated_oct_2024.pdf) if you're here for that, and other ways to reach me are linked in the menu either to the left, or above, depending on your screen resolution. Click the links at the top of the page to check out some of my other experience and work!
 
 What do/did I do?
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I am currently a junior at Georgia Tech majoring in Biomedical Engineering and minoring in Chemistry and Biochemistry. At Tech, I work in the [Enveomics Lab](https://enve-omics.gatech.edu/) throughout the school year, and for the past few summers I have worked in the [Appel Lab](https://www.supramolecularbiomaterials.com/) and the Traverso Lab as part of the [Stanford SURF program](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer) and the [MIT Summer Research Program](https://oge.mit.edu/msrp/profiles/sara-kapasi/), respectively. 
+I'm also a part of the M.A.R.S Vertically Integrated Projects (VIP) team starting January 2025, and was formerly part of the Smart and Connected Bioelectronics team working on cardiovascular monitoring devices under [Dr. Woon-Hong Yeo](https://www.yeolabgatech.com/) from August 2022 to December 2023. Outside of classes I serve as one of the Biomedical Engineering officers for [Asclepios V](https://asclepios.ch/), a student-run analog mission based at EPFL, and am Production Manager for [DramaTech](https://dramatech.org/), Georgia Tech's student-run theatre.
 
 What do I care about?
 ------
