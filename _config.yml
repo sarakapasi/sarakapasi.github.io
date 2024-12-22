@@ -21,9 +21,9 @@ repository               : "sarakapasi/sarakapasi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot from surf.jpg"
+  avatar           : "headshot.jpg"
   name             : "Sara Kapasi"
-  pronouns         : # example: "she/they"  
+  pronouns         : "she/they"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
