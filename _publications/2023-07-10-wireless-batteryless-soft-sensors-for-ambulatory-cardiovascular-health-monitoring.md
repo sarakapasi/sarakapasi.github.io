@@ -3,7 +3,7 @@ title: "Wireless batteryless soft sensors for ambulatory cardiovascular health m
 collection: publications
 category: manuscripts
 permalink: /publication/2023-07-10-wireless-batteryless-soft-sensors-for-ambulatory-cardiovascular-health-monitoring
-excerpt: 'This paper is about a soft flexible wireless batteryless SCG sensor I helped fabricate and develop.'
+excerpt: 'I worked on fabrication and signal processing on this soft SCG sensor as part of my freshman year VIP team.'
 date: 2023-07-10
 venue: 'Soft Science'
 paperurl: 'https://par.nsf.gov/servlets/purl/10433479'
