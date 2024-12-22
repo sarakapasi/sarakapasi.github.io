@@ -6,22 +6,22 @@
 
 main:
   - title: "Publications"
-    url: sarakapasi.github.io/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: sarakapasi.github.io/talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: sarakapasi.github.io/teaching/    
+    url: /teaching/    
     
   - title: "Portfolio"
-    url: sarakapasi.github.io/portfolio/
+    url: /portfolio/
         
   - title: "Blog Posts"
-    url: sarakapasi.github.io/year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: sarakapasi.github.io/cv/
+    url: /cv/
     
   - title: "Guide"
-    url: sarakapasi.github.io/markdown/
+    url: /markdown/
