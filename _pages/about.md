@@ -19,7 +19,7 @@ What do I care about?
 ------
 My overarching goal in my work is to develop better ways of delivering better therapeutics. As someone surrounded by those with chronic diseases, I hope to be able to make a difference in my communities and use novel, innovative techniques to ensure better quality of life. 
 
-I am a strong supporter of interdisciplinary projects and am also a big space enthusiast. I believe that skills in engineering are translational throughout subfields and am happiest working on meaningful projects incorporating multiple disciplines, such as the Asclepios V mission. Since the start of my time in school, I've also been committed towards increasing diversity in STEM through my involvement in MSRP and Stanford SURF, as well as Georgia Tech's [Undergradute Research Ambassadors](https://urop.gatech.edu/content/undergraduate-research-ambassador-current), SWE chapter, and Women in Engineering program.
+I am a strong supporter of interdisciplinary projects and am interested in supporting life in extreme environments, such as space. I believe that skills in engineering are translational throughout subfields and am happiest working on meaningful projects incorporating multiple disciplines, such as the Asclepios V mission. Since the start of my time in school, I've also been committed towards increasing diversity in STEM through my involvement in MSRP and Stanford SURF, as well as Georgia Tech's [Undergradute Research Ambassadors](https://urop.gatech.edu/content/undergraduate-research-ambassador-current), SWE chapter, and Women in Engineering program.
 
 About this site
 ------
