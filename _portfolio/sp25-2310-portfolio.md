@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Spring 2025 BMED 2310 Project - TBA"
+excerpt: "Short description of Spring 2025 BMED 2310 Project<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
