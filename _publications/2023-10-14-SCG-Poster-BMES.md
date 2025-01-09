@@ -6,7 +6,7 @@ permalink: /publication/2023-10-14-SCG-Poster-BMES
 excerpt: 'A poster summary of the <i>Soft Science</i> paper, presented at the 2023 BMES Annual Meeting.'
 date: 2023-10-14
 venue: 'BMES Annual Meeting'
-paperurl: 'https://par.nsf.gov/servlets/purl/10433479'
+paperurl: 'http://sarakapasi.github.io/images/BMESposter.png'
 citation: "Kapasi S, Guess M, and Yeo WH. (2023). &quot;Wireless Batteryless Soft Sensor for Ambulatory Cardiovascular Health Monitoring.&quot; <i>2023 BMES Annual Meeting</i>. 2023 October 14th. Seattle, Washington."
 ---
 
