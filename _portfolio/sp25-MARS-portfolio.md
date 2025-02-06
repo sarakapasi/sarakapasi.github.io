@@ -1,6 +1,6 @@
 ---
-title: "Spring 2025 M.A.R.S VIP Project - TBA"
-excerpt: "Short description of Spring 2025 M.A.R.S VIP Project<br/><img src='/images/500x300.png'>"
+title: "Spring 2025 M.A.R.S VIP Project - Dust Storm Energy Harvesting"
+excerpt: "With a group of 4 others, I am developing physical platforms to test the capability of electrostatic energy harvesting from simulated Martian dust storms.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
