@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /gtbmednotes
 title: "GT BMED Notes Repository"
 author_profile: true
 redirect_from: 
