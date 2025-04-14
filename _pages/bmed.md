@@ -15,12 +15,12 @@ sometimes you want to know what a course looks like before you take it! in my no
 
 list of bmed courses:
 ------
-BMED 2110
-BMED 2400
-BMED 3100
-BMED 3410
-BMED 3520
-BMED 3600
+- BMED 2110
+- BMED 2400
+- BMED 3100
+- BMED 3410
+- BMED 3520
+- BMED 3600
 
 oh no, i can't find X class that i would like notes for! 
 ------
