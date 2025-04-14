@@ -1,10 +1,9 @@
 ---
+layout: archive
+title: "GT BMED Notes"
 permalink: /gtbmednotes/
-title: "GT BMED Notes Repository"
-redirect_from: 
-  - /bmednotes.html
+author_profile: true
 ---
-
 Welcome to my GT BMED notes page! 
 
 why is this here?
