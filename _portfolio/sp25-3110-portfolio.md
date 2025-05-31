@@ -1,6 +1,6 @@
 ---
-title: "Spring 2025 BMED 3110 Project - TBA"
-excerpt: "Short description of Spring 2025 BMED 3110 Project<br/><img src='/images/500x300.png'>"
+title: "Spring 2025 BMED 3110 Project - Using EMG to Quantify Muscle Activation in Text Neck"
+excerpt: "Poster presentation of BMED 3110 final project, studying ways to mitigate and quantify the extent of teext neck<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
