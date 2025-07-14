@@ -1,7 +1,7 @@
 ---
 title: "Redesigning Maternity Support Bands"
 excerpt: "Women's Health Track of Spring 2025 BMED 2310: Intro to Biomedical Engineering Design, focusing on alleviating discomfort associated with lower back pain during pregnancy with a team of 4 others. My first in-class in-depth exposure to the FDA medical device evaluation process.
-<br/><img src='/images/500x300.png'>"
+<br/><img src='/images/OBGEM_website.png'>"
 collection: portfolio
 ---
 
