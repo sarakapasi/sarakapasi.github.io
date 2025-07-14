@@ -1,6 +1,6 @@
 ---
 title: "Spring 2025 BMED 3110 Project - Using EMG to Quantify Muscle Activation in Text Neck"
-excerpt: "Poster presentation of BMED 3110 final project, studying ways to mitigate and quantify the extent of text neck<br/><img src='/images/BMED_3110_Poster.png'>"
+excerpt: "Poster presentation of BMED 3110 final project, studying ways to mitigate and quantify the extent of text neck.<br/><img src='/images/BMED_3110_Poster_updated.png'>"
 collection: portfolio
 ---
 
