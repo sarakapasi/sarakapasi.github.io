@@ -17,4 +17,4 @@ Brooke Owens Fellowship:
 
 My Stanford SURF work was [featured in Science News.](https://www.sciencenews.org/article/ozempic-drug-diabetes-injected-gel)
 
-My high school science fair project [received an award during Regeneron ISEF 2021.](https://www.societyforscience.org/press-release/2021-regeneron-isef-sao-awards/)
+One of my high school science fair projects [received an award during Regeneron ISEF 2021.](https://www.societyforscience.org/press-release/2021-regeneron-isef-sao-awards/)
