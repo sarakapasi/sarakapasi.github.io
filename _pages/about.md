@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My CV is linked [here](https://sarakapasi.github.io/cv/) if you're here for that, and other ways to reach me are linked in the menu either to the left, or above, depending on your screen resolution. Click the links at the top of the page to check out some of my other experience and work!
+Welcome to my website! My CV is linked [here](https://sarakapasi.github.io/cv/) if you're here for that, and other ways to reach me are linked in the menu either to the left or above, depending on your screen resolution. Click the links at the top of the page to check out some of my other experiences and work!
 
 what do/did i do?
 ------
