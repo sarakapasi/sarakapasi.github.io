@@ -7,6 +7,8 @@ redirect_from:
   - /news
 ---
 
+"News" features
+---
 I, as well as work I have contributed to, have been profiled in a couple of articles and media, listed below:
 
 Brooke Owens Fellowship: 
