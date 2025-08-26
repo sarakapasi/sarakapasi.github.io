@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 "News" features
----
+------
 I, as well as work I have contributed to, have been profiled in a couple of articles and media, listed below:
 
 Brooke Owens Fellowship: 
@@ -22,7 +22,7 @@ My Stanford SURF work was [featured in Science News.](https://www.sciencenews.or
 One of my high school science fair projects [received an award during Regeneron ISEF 2021.](https://www.societyforscience.org/press-release/2021-regeneron-isef-sao-awards/)
 
 Awards
----
+------
 - ABRCMS Travel Award - American Society of Microbiology - Full (Aug 2024) and Partial (Aug 2025)
 - Women in Engineering Scholarship x2 (George Family Foundation - May 2024, Women in Engineering at Georgia Tech - Apr 2025) - $1000 each
 - Brooke Owens Fellow - Brooke Owens Fellowship (Jan 2025)
