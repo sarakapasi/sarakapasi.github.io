@@ -6,4 +6,4 @@ collection: portfolio
 ---
 
 Abstract linked [here](https://abstracts.societyforscience.org/Home/FullAbstract?Category=Any%20Category&AllAbstracts=True&FairCountry=Any%20Country&FairState=Any%20State&ProjectId=20335).
-<br/><img src='/images/ISEFPoster.jpg'>
+<br/><img src='/images/ISEFPoster.jpeg'>
