@@ -1,7 +1,7 @@
 ---
 title: "Summer 2025 Varda Internship Project - Redesigning Maternity Support Bands"
 excerpt: "Product Engineering internship at Varda Space Industries, focusing on process controls for polymorph conversion in pharmaceuticals going to space. This was very aerospace internship coded, so ITAR restricted and export controlled so I can't say much, but it was my first time working with pharmaceutical synthesis and crystallization processes involving polymorphs."
-<br/><img src='/images/OBGEM_website.png'>"
+<br/><img src='/images/OBGEM_website.png'>
 collection: portfolio
 ---
 
