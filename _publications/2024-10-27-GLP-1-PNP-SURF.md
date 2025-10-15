@@ -9,4 +9,4 @@ venue: '2023 SURF Research Symposium, 2024 O4U Life Sciences Conference'
 paperurl: 'http://sarakapasi.github.io/images/SURFposter.png'
 citation: "Kapasi S, d'Aquino A, Dong L, and Appel E. (2024). &quot;Formulation of GLP-1 Polymer-Nanoparticle (PNP) Hydrogels for Treatment of Type 2 Diabetes.&quot; <i>2024 Out for Undergrad Life Sciences Poster Session</i>. 2024 October 27th. Minneapolis, Minnesota."
 ---
-<br/><img src='/images/54035693580_5c70286ce0_k.jpg'>
+<img src='/images/54035693580_5c70286ce0_k.jpg'>
