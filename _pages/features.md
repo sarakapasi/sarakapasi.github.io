@@ -23,6 +23,7 @@ One of my high school science fair projects [received an award during Regeneron 
 
 Awards
 ------
+- oSTEM Actalent Engineering: Queer Excellence Scholarship - $5000 (Aug 2025)
 - ABRCMS Travel Award - American Society of Microbiology - Full (Aug 2024) and Partial (Aug 2025)
 - Women in Engineering Scholarship x2 (George Family Foundation - May 2024, Women in Engineering at Georgia Tech - Apr 2025) - $1000 each
 - Brooke Owens Fellow - Brooke Owens Fellowship (Jan 2025)
