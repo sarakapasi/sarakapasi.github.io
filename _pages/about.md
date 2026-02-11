@@ -15,7 +15,7 @@ I am a senior at Georgia Tech, majoring in Biomedical Engineering and minoring i
 
 I was formerly part of the Smart and Connected Bioelectronics VIP working on cardiovascular monitoring devices under [Dr. Woon-Hong Yeo](https://www.yeolabgatech.com/) from August 2022 to December 2023. Outside of classes, I served as one of the Biomedical Engineering officers for [Asclepios V](https://asclepios.ch/), a student-run analog mission based at EPFL, and was the Production Manager for [DramaTech](https://dramatech.org/), Georgia Tech's student-run theatre. I am currently Head of Research at [Southeast Analog (SEA)](https://southeastanalog.org/), one of the only student-run analog missions based in the US.
 
-I do a variety of miscellaneous activities I think are cool, like participating in Gathering 4 Gardner, playing squash, running outside, and reading a book a week. I also hold an amateur radio license (KR4JRY)!
+I do a variety of miscellaneous activities I think are cool, like participating in Gathering 4 Gardner, playing squash, running outside, and reading a book a week. I also hold an amateur radio license (KR4JRY) and operate an engineering-focused social media account, [@engineerwithsara](https://www.instagram.com/engineerwithsara/).
 
 What I care about
 ------
