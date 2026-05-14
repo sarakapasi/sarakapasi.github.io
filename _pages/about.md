@@ -11,6 +11,6 @@ Welcome to my website! My CV is linked [here](https://sarakapasi.github.io/cv/) 
 
 What I do
 ------
-I am an incoming PhD student in the Biomedical Engineering program between Georgia Institute of Technology and Emory University. I completed my BS in Biomedical Engineering (and minored in Chemistry and Biochemistry) at Georgia Tech. I'm interested in developing resilient delivery systems for microbes in human health and harsh environments. At Tech, I work in the [Enveomics Lab](https://enve-omics.gatech.edu/people/) on various microbial ecology projects.
+I am an incoming PhD student in the Biomedical Engineering program between Georgia Institute of Technology and Emory University. I completed my BS in Biomedical Engineering (and minored in Chemistry and Biochemistry) at Georgia Tech. I'm interested in developing resilient delivery systems for microbes in human health and harsh environments. At Tech, I work in the [Enveomics Lab](https://enve-omics.gatech.edu/people/) with Dr. Kostas Konstantinidis on various microbial ecology projects.
 
 Outside of school, I am currently Head of Research at [Southeast Analog (SEA)](https://southeastanalog.org/), one of the only student-run analog missions based in the US. I do various activities like participating in recreational math conferences, playing squash, running outside, and reading a book a week, and I also hold an amateur radio license (KR4JRY) and operate an engineering-focused social media account, [@engineerwithsara](https://www.instagram.com/engineerwithsara/).
