@@ -7,9 +7,9 @@ redirect_from:
   - /news
 ---
 
-"News" features
-------
-I, as well as work I have contributed to, have been profiled in a couple of articles and media, listed below:
+I, as well as work I have contributed to, have been mentioned in a couple of articles and media, listed below:
+
+Georgia Tech GRFP recipients: [Georgia Tech article](https://www.gatech.edu/news/2026/05/21/georgia-tech-students-and-alumni-awarded-prestigious-nsf-fellowships)
 
 Brooke Owens Fellowship: 
 - [Brooke Owens press release](https://www.brookeowensfellowship.org/blog/posts/classof2025)
