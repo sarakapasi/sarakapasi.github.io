@@ -21,7 +21,7 @@ repository               : "sarakapasi/sarakapasi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "files/bme-headshot.png"
+  avatar           : "http://sarakapasi.github.io/images/bme-headshot.png"
   name             : "Sara Kapasi"
   pronouns         : "she/they"  
   bio              : "BME PhD Student at Georgia Tech & Emory University"
